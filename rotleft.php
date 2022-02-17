@@ -1,6 +1,4 @@
 <?php
-
-
 /*
 A left rotation operation on an array shifts each of the array's elements  unit to the left. For example, if  left rotations are performed on array , then the array would become . Note that the lowest index item moves to the highest index in a rotation. This is called a circular array.
 
@@ -8,7 +6,6 @@ Given an array  of  integers and a number, , perform  left rotations on the arra
 
 Function Description
 
-Complete the function rotLeft in the editor below.
 
 rotLeft has the following parameter(s):
 
@@ -31,6 +28,8 @@ Sample Input
 Sample Output
 
 5 1 2 3 4
+*/
+/*
  * Complete the 'rotLeft' function below.
  *
  * The function is expected to return an INTEGER_ARRAY.
